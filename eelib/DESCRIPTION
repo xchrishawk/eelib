@@ -1,0 +1,9 @@
+Name: EELIB
+Version: 0.1.0
+Date: 2024-02-09
+Author: Chris Vig (chris@invictus.so)
+Maintainer: Chris Vig (chris@invictus.so)
+Title: Electrical Engineering Library
+Description: Library containing utility functions for electrical engineering.
+Categories: Engineering
+License: Unlicense
