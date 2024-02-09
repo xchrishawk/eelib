@@ -1,2 +1,6 @@
+# Output files
+eelib-*.tar
+eelib-*.tar.gz
+
 # macOS Files
 .DS_Store
